@@ -1,0 +1,8 @@
+C:\Users\lucas\Desktop\Projetos\atividade\bin\Debug\netstandard2.0\Atividade.deps.json
+C:\Users\lucas\Desktop\Projetos\atividade\bin\Debug\netstandard2.0\Atividade.dll
+C:\Users\lucas\Desktop\Projetos\atividade\bin\Debug\netstandard2.0\Atividade.pdb
+C:\Users\lucas\Desktop\Projetos\atividade\obj\Debug\netstandard2.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\atividade\obj\Debug\netstandard2.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\atividade\obj\Debug\netstandard2.0\Atividade.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\atividade\obj\Debug\netstandard2.0\Atividade.dll
+C:\Users\lucas\Desktop\Projetos\atividade\obj\Debug\netstandard2.0\Atividade.pdb

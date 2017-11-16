@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\bin\Debug\netcoreapp2.0\ConsoleEscola.deps.json
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\bin\Debug\netcoreapp2.0\ConsoleEscola.runtimeconfig.json
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\bin\Debug\netcoreapp2.0\ConsoleEscola.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\bin\Debug\netcoreapp2.0\ConsoleEscola.dll
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\bin\Debug\netcoreapp2.0\ConsoleEscola.pdb
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\bin\Debug\netcoreapp2.0\Atividade.dll
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\bin\Debug\netcoreapp2.0\Atividade.pdb
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\obj\Debug\netcoreapp2.0\ConsoleEscola.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\obj\Debug\netcoreapp2.0\ConsoleEscola.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\obj\Debug\netcoreapp2.0\ConsoleEscola.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\obj\Debug\netcoreapp2.0\ConsoleEscola.dll
+C:\Users\lucas\Desktop\Projetos\atividade\consoleEscola\obj\Debug\netcoreapp2.0\ConsoleEscola.pdb
